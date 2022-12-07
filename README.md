@@ -10,11 +10,11 @@ Infraestrutura:
 
     Setar as Permissoes do Gitpod ao Repositorio no Github X
 
-    Subir o Airbyte via docker X
+    Subir o Airbyte via docker 
 
-    Subir o Airflow via docker X
+    Subir o Airflow via docker 
 
-    Subir o Metabase via docker X
+    Subir o Metabase via docker 
 
     Criar o script de execução ?
 
